@@ -1,4 +1,4 @@
-# FastAPI Chatbot with SQL Query Generation
+# Chatbot with SQL Query Generation
 
 This project provides a FastAPI-based chatbot application that integrates with OpenAI to generate SQL queries from user inputs. The chatbot then retrieves product information from a database and provides answers to the user. The project also includes a simple UI for interacting with the chatbot.
 
